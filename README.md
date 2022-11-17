@@ -1,8 +1,24 @@
-# EducaAnddOS
+# EducaAndOS
 
-Questo è il primo tentativo di theme esterno ad eggs
+First tempt to build a template external to eggs.
 
-# usage:
+## usage:
 
 ```
 sudo eggs produce --fast --theme ../path/to/theme
+```
+## example
+
+Clone this theme:
+
+```
+git clone https://github.com/pieroproietti/theme-educaandos-plus```
+```
+
+And produce your iso:
+
+```
+sudo eggs produce --fast  --theme ../educaandos-pluc
+```
+
+
