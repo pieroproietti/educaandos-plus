@@ -28,6 +28,16 @@ Contain the calamares customizations and it's by far the most important.
 * partitions.yml
 * users.yml
 
+### locale.yml
+Not used yet.
+
+### partitions.yml
+Not used yet.
+
+### users.yml
+In EducaAndOS to ensure administration capability for our user, we need a groups configuration specified in users.yml. Note: If it is not specified as thema educaandos, the configuration of groups in which the live user and the installed system user will be part, will not have the possibility of administration.
+
+
 ## livecd
 Take cure of the apparence of your live.
 
