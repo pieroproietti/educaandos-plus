@@ -21,6 +21,13 @@ The icon for your desktop link, will be copied on ```/usr/share/icons/```
 ## calamares
 Contain the calamares customizations and it's by far the most important.
 
+Each sample configuration file contains documentation on the options it contains.
+
+The configuration of calamares is specified in yaml files and contains within it documentation for the various options. The main calamares ```settings.conf``` file is automatically created by eggs, only partition, locale and users are used here.
+
+Of course, the reference information is in the [calamares repository](https://github.com/calamares/calamares/) and on the [calamares.io](https://github.com/calamares/calamares/wiki/Deploy-Configuration) website
+
+
 ### branding
 
 ### modules
