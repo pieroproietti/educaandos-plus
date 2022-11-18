@@ -13,7 +13,7 @@ A theme consist in a structures insieme di files and directories, YAML language 
 Just a desktop link, will be copied to ```/usr/share/applications/``` and on the Desktop.
 
 ## artwork
-The icon for your desktop link
+The icon for your desktop link, will be copied on ```/usr/share/icons/```
 
 ## calamares
 Contain the calamares customizations and it's by far the most important.
@@ -26,7 +26,7 @@ Contain the calamares customizations and it's by far the most important.
 * users.yml
 
 ## livecd
-The apparence of your live.
+Take cure of the apparence of your live.
 
 ## usage:
 
@@ -44,7 +44,7 @@ git clone https://github.com/pieroproietti/educaandos-plus```
 And produce your iso:
 
 ```
-sudo eggs produce --fast  --theme ../educaandos-pluc
+sudo eggs produce --fast  --theme ../educaandos-plus
 ```
 
 
