@@ -13,7 +13,7 @@ make_md5sum: false
 make_isohybrid: true
 compression: zstd -b 256K -Xcompression-level 1
 ssh_pass: true
-timezone: Europe/Madris
+timezone: Europe/Madrid
 locales_default: es_ES.UTF-8
 locales:
   - es_ES.UTF-8
