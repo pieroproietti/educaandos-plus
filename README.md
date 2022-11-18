@@ -2,8 +2,11 @@
 
 A theme for eggs, let you to save your time.
 
-A theme consist in a structures insieme di files and directories, YAML language is the used most.
+An eggs theme is simply an organized set of files and directories, YAML being the most widely used.
 
+EducaAndOS is the first example of an external eggs theme available, previous themes: neon, ufficiozero, telos and waydroid will be via, via moved out of eggs itself and updated to the present configurations.
+
+We currently have the following directories:
 * applications
 * artwork
 * calamares
