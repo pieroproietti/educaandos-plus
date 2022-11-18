@@ -59,5 +59,3 @@ And produce your iso:
 ```
 sudo eggs produce --fast  --theme ../educaandos-plus
 ```
-
-
